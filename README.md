@@ -4,7 +4,8 @@
 This project is a Streamlit-based smart chatbot that allows users to upload documents (PDF, TXT, CSV) and instantly translate or summarize them into English using a local Ollama LLM model.
 It also includes multi-chat support, persistent session history, custom chat UI styling, and context-aware responses powered by the uploaded file.
 
-#Features
+Features
+
 1️. Multi-Chat System
 Create new chats
 Switch between chat histories
