@@ -15,6 +15,8 @@ Switch between chat histories
 
 Messages saved in session_state to prevent loss on page reload
 
+
+
 2️. Advanced File Upload & Extraction
 
 Supports:
@@ -32,6 +34,8 @@ Extract text
 Store it in st.session_state.file_text
 
 Display preview & enable translation
+
+
 
 3️. Document Translation to English
 
@@ -51,6 +55,8 @@ A clear English summary (4–6 sentences)
 
 Fully offline & privacy-safe since processing happens locally
 
+
+
 4️. Chatbot with Context Awareness
 
 User messages displayed as right-aligned bubbles
@@ -60,6 +66,8 @@ Assistant messages left-aligned with soft styling
 If a file is uploaded, the assistant uses the first 2000 characters as reference
 
 Gives explanations, breakdowns, and Q&A from the document
+
+
 
 5️.Sidebar Utilities
 
@@ -76,6 +84,8 @@ Insert summary into chat
 Clear file & summary
 
 Preview of extracted text and summary
+
+
 
 How It Works
 
